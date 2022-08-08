@@ -16,7 +16,7 @@ import nft2 from './nft2.png';
 import nft3 from './nft3.png';
 import nft4 from './nft4.png';
 import nft5 from './nft5.png';
-import nft6 from './nft6.jpeg';
+import nft6 from './nft6.png';
 import nft7 from './nft7.png';
 import nft8 from './nft8.png';
 import nft9 from './nft9.png';
