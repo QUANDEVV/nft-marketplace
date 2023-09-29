@@ -10,3 +10,5 @@ import Banner from './Banner';
 import Input from './Input';
 
 export { Navbar, Footer, Modal, CreatorCard, NFTCard, Loader, SearchBar, Button, Banner, Input };
+
+
